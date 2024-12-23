@@ -48,6 +48,7 @@
 5. Install the dependencies: `pip install -r requirements.txt`
 6. Run the migrations: `python manage.py migrate`
 7. Start the development server: `python manage.py runserver`
+8. Access the admin panel for model management: `http://127.0.0.1:8000/admin`
 
 ### Testing
 - **Test Cases**: Tested all CRUD operations for each model.
