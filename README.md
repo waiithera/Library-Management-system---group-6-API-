@@ -56,3 +56,9 @@
 - **Screenshots location** : It is named after Postman Test Cases Screenshots for the tests.
 - **Results**: All tests passed successfully.
 
+### Future Improvements
+- Implement advanced search and filtering options.
+- Integrate notifications for overdue borrow records.
+- Add support for multiple libraries.
+
+
