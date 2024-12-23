@@ -31,7 +31,12 @@
 - LibrariansSerializer: Serializes Librarians model data.
 
 ### URL Patterns
-
+- baseURL : `http://127.0.0.1:8000/api`
+- `baseURL/books/`: Endpoint for book-related operations.
+- `baseURL/authors/`: Endpoint for author-related personel records.
+- `baseURL/members/`: Endpoint for member-related operations.
+- `baseURL/borrowrecords/`: Endpoint for borrow-records operations.
+- `baseURL/librarians/` : Endpoint for librarian personel records.
 
 ### Setup Instructions
 1. Clone the repository.
